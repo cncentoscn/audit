@@ -77,7 +77,7 @@
 
 #安装文档
 
-![](https://www.centoscn.vip/5034.html)
+**[blong](https://www.centoscn.vip/5034.html)**
 
 # 交流地址
 
