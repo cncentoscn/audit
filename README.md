@@ -7,7 +7,7 @@
 前台登录界面只是简单的前端，凑合着用，这不是重点，重点是里面的功能。
 
 登录界面如下图
-https://www.centoscn.vip/wp-content/uploads/2017/09/2017092123174422.png
+![](https://www.centoscn.vip/wp-content/uploads/2017/09/2017092123174422.png)
 输入帐号和密码后的界面如下
 https://www.centoscn.vip/wp-content/uploads/2017/09/201709212319338.png
 登录界面后有两大功能：上线流程审计和上线记录导出
